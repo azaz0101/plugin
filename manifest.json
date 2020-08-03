@@ -1,0 +1,13 @@
+  {
+    "name": "Fæk news",
+    "version": "1.0",
+    "description": "IDK Whatever",
+    "permissions": ["tabs"],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": "toolbox2.png"
+    },
+
+
+    "manifest_version": 2
+  }
