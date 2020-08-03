@@ -6,7 +6,7 @@ import os
 from bs4 import BeautifulSoup
 
 #搜尋條件
-#print(sys.argv)
+#gprint(sys.argv)
 if len(sys.argv)>=3 and sys.argv[1]=='-q':
     search = sys.argv[2]
     # print(search)
